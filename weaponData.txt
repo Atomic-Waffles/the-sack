@@ -1,0 +1,6 @@
+iron_sword,5,5,100,false
+fire_tome,8,2,100,true
+
+
+
+
